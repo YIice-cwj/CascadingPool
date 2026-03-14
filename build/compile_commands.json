@@ -1,0 +1,122 @@
+[
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\cpu_affinity.cc.obj -c E:\\cascadingpool\\src\\cpu_affinity.cc",
+  "file": "E:/cascadingpool/src/cpu_affinity.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/cpu_affinity.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\dirty_tree.cc.obj -c E:\\cascadingpool\\src\\dirty_tree.cc",
+  "file": "E:/cascadingpool/src/dirty_tree.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/dirty_tree.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\muzzy_tree.cc.obj -c E:\\cascadingpool\\src\\muzzy_tree.cc",
+  "file": "E:/cascadingpool/src/muzzy_tree.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/muzzy_tree.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\in_use_tree.cc.obj -c E:\\cascadingpool\\src\\in_use_tree.cc",
+  "file": "E:/cascadingpool/src/in_use_tree.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/in_use_tree.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\retained_tree.cc.obj -c E:\\cascadingpool\\src\\retained_tree.cc",
+  "file": "E:/cascadingpool/src/retained_tree.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/retained_tree.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\extent_manager.cc.obj -c E:\\cascadingpool\\src\\extent_manager.cc",
+  "file": "E:/cascadingpool/src/extent_manager.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/extent_manager.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\arena.cc.obj -c E:\\cascadingpool\\src\\arena.cc",
+  "file": "E:/cascadingpool/src/arena.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/arena.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\size_class.cc.obj -c E:\\cascadingpool\\src\\size_class.cc",
+  "file": "E:/cascadingpool/src/size_class.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/size_class.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\chunk.cc.obj -c E:\\cascadingpool\\src\\chunk.cc",
+  "file": "E:/cascadingpool/src/chunk.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/chunk.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\slab.cc.obj -c E:\\cascadingpool\\src\\slab.cc",
+  "file": "E:/cascadingpool/src/slab.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/slab.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\slab_group.cc.obj -c E:\\cascadingpool\\src\\slab_group.cc",
+  "file": "E:/cascadingpool/src/slab_group.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/slab_group.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\cache_bin.cc.obj -c E:\\cascadingpool\\src\\cache_bin.cc",
+  "file": "E:/cascadingpool/src/cache_bin.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/cache_bin.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\thread_cache.cc.obj -c E:\\cascadingpool\\src\\thread_cache.cc",
+  "file": "E:/cascadingpool/src/thread_cache.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/thread_cache.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\cascading_pool.cc.obj -c E:\\cascadingpool\\src\\cascading_pool.cc",
+  "file": "E:/cascadingpool/src/cascading_pool.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/cascading_pool.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool.dir\\src\\thread_cache_manager.cc.obj -c E:\\cascadingpool\\src\\thread_cache_manager.cc",
+  "file": "E:/cascadingpool/src/thread_cache_manager.cc",
+  "output": "CMakeFiles/cascading_pool.dir/src/thread_cache_manager.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build/tests",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/arena_test.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\arena_test.dir\\arena_test.cc.obj -c E:\\cascadingpool\\tests\\arena_test.cc",
+  "file": "E:/cascadingpool/tests/arena_test.cc",
+  "output": "tests/CMakeFiles/arena_test.dir/arena_test.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build/tests",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/cascading_pool_test.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\cascading_pool_test.dir\\cascading_pool_test.cc.obj -c E:\\cascadingpool\\tests\\cascading_pool_test.cc",
+  "file": "E:/cascadingpool/tests/cascading_pool_test.cc",
+  "output": "tests/CMakeFiles/cascading_pool_test.dir/cascading_pool_test.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build/tests",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/extent_manager_test.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\extent_manager_test.dir\\extent_manager_test.cc.obj -c E:\\cascadingpool\\tests\\extent_manager_test.cc",
+  "file": "E:/cascadingpool/tests/extent_manager_test.cc",
+  "output": "tests/CMakeFiles/extent_manager_test.dir/extent_manager_test.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build/tests",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/thread_cache_manager_test.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\thread_cache_manager_test.dir\\thread_cache_manager_test.cc.obj -c E:\\cascadingpool\\tests\\thread_cache_manager_test.cc",
+  "file": "E:/cascadingpool/tests/thread_cache_manager_test.cc",
+  "output": "tests/CMakeFiles/thread_cache_manager_test.dir/thread_cache_manager_test.cc.obj"
+},
+{
+  "directory": "E:/cascadingpool/build/tests",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/thread_cache_test.dir/includes_CXX.rsp -O3 -march=native -funroll-loops -fomit-frame-pointer -std=gnu++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\thread_cache_test.dir\\thread_cache_test.cc.obj -c E:\\cascadingpool\\tests\\thread_cache_test.cc",
+  "file": "E:/cascadingpool/tests/thread_cache_test.cc",
+  "output": "tests/CMakeFiles/thread_cache_test.dir/thread_cache_test.cc.obj"
+}
+]

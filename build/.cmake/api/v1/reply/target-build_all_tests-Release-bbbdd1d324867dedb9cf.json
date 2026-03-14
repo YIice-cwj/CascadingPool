@@ -1,0 +1,148 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies",
+			"add_auto_test"
+		],
+		"files" : 
+		[
+			"tests/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 8
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 10
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "arena_test::@a44f0ac069e85531cdee"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "cascading_pool_test::@a44f0ac069e85531cdee"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "extent_manager_test::@a44f0ac069e85531cdee"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "thread_cache_manager_test::@a44f0ac069e85531cdee"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "thread_cache_test::@a44f0ac069e85531cdee"
+		}
+	],
+	"id" : "build_all_tests::@a44f0ac069e85531cdee",
+	"name" : "build_all_tests",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "arena_test::@a44f0ac069e85531cdee"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "cascading_pool_test::@a44f0ac069e85531cdee"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "extent_manager_test::@a44f0ac069e85531cdee"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "thread_cache_manager_test::@a44f0ac069e85531cdee"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "thread_cache_test::@a44f0ac069e85531cdee"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "tests",
+		"source" : "tests"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

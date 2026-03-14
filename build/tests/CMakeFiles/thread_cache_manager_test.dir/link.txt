@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\thread_cache_manager_test.dir/objects.a
+"D:\Program Files\mingw64\bin\ar.exe" qc CMakeFiles\thread_cache_manager_test.dir/objects.a @CMakeFiles\thread_cache_manager_test.dir\objects1.rsp
+"D:\Program Files\mingw64\bin\g++.exe" -O3 -march=native -funroll-loops -fomit-frame-pointer -Wl,--whole-archive CMakeFiles\thread_cache_manager_test.dir/objects.a -Wl,--no-whole-archive -o E:\cascadingpool\bin\thread_cache_manager_test.exe -Wl,--out-implib,E:\cascadingpool\bin\libthread_cache_manager_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\thread_cache_manager_test.dir\linkLibs.rsp

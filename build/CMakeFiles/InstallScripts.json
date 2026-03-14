@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/cascadingpool/build/cmake_install.cmake",
+		"E:/cascadingpool/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
